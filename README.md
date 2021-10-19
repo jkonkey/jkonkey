@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkonkey
 - 👀 I’m interested in Baseball and old school ARPGs
-- 🌱 I’m currently learning all the skills to become a Full Stack developer
+- 🌱 I’m currently learning all the skills to become a full stack developer
 - 📫 How to reach me / joshuamcconkey45@gmail.com
 
 <!---
